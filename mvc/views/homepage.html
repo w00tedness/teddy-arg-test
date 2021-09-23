@@ -10,8 +10,11 @@
         <arg secondArgument>
           <span>{item.c}</span>
         </arg>
-        <arg thirdArgument>{array}</arg>
       </include>
     </loop>
+    
+    <include src='anotherPartial'>
+      <arg test>{array}</arg>
+    </include>
   </arg>
 </include>
