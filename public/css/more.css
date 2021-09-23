@@ -1,0 +1,9 @@
+/*
+  This is a sample LESS CSS file. It compiles down to regular CSS. The compilation process is handled automatically by Roosevelt.
+
+  For more information about what fancy new CSS syntax is introduced by LESS, have a look here: http://lesscss.org
+*/
+img {
+  border: 5px #000 dotted;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1vcmUubGVzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7OztBQU1BO0VBQ0UsdUJBQUEiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICBUaGlzIGlzIGEgc2FtcGxlIExFU1MgQ1NTIGZpbGUuIEl0IGNvbXBpbGVzIGRvd24gdG8gcmVndWxhciBDU1MuIFRoZSBjb21waWxhdGlvbiBwcm9jZXNzIGlzIGhhbmRsZWQgYXV0b21hdGljYWxseSBieSBSb29zZXZlbHQuXG5cbiAgRm9yIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgd2hhdCBmYW5jeSBuZXcgQ1NTIHN5bnRheCBpcyBpbnRyb2R1Y2VkIGJ5IExFU1MsIGhhdmUgYSBsb29rIGhlcmU6IGh0dHA6Ly9sZXNzY3NzLm9yZ1xuKi9cblxuaW1nIHtcbiAgYm9yZGVyOiA1cHggIzAwMCBkb3R0ZWQ7XG59XG4iXX0= */

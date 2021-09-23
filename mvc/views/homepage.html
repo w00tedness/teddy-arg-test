@@ -1,0 +1,17 @@
+<include src='layouts/main'>
+  <arg pageContent>
+    <loop through='objects' val='item'>
+      <if item.a='4'>
+        <p>item.a is 4</p>
+      </if>
+      <p if-item.b='5' true="class='item-b-is-five'" false='hidden'>item.b is 5</p>
+      <include src='partial.html'>
+        <arg firstArgument>{item.b}</arg>
+        <arg secondArgument>
+          <span>{item.c}</span>
+        </arg>
+        <arg thirdArgument>{array}</arg>
+      </include>
+    </loop>
+  </arg>
+</include>
